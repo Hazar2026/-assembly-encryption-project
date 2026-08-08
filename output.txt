@@ -1,0 +1,4 @@
+Plain text: HELLO
+Key: world
+Encrypted text: ?*> +
+Decrypted text: HELLO
